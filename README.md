@@ -22,3 +22,5 @@ The point is that sus2 is between maj and min. sus2 is neither major nor minor, 
 # "Wave"
 Knob2 turns all the way to the right, you can change the waveform by turning Knob3. You can choose from eight types, and each waveform is a wavetable that is included in the mozzi library from the beginning.
 With a little modification, you can play it on your favorite wavetable.
+
+Inspired by Hagiwo and Chords
